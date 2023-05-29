@@ -5,7 +5,7 @@ Marketers and businesses can use consumer sentiment to inform their marketing st
 Participants will be tasked with building a predictive model that can analyze social media activity to determine consumer sentiment towards a particular brand or product. The model should take into account various features of the social media data, such as the latest news, resources, topic of the media resources, Popularity on the social media.
 
 ### Evaluation criteria:
-Mean Average Error (MAE)
+Mean Absolute Error (MAE)
 
 ### Points (0-100) (Combined = 0.4 * title_sentiment + 0.6 * headline_sentiment)
 
